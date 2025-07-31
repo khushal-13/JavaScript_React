@@ -1,4 +1,4 @@
-import conf from "./conf";
+import conf from "../conf/conf";
 import { ID, Databases, Storage, Query, Client, Account } from "appwrite";
 
 export class Service {
